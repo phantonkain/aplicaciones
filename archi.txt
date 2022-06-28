@@ -13,3 +13,7 @@
 27/06/2022  10:53    <DIR>          registry
                0 archivos              0 bytes
                8 dirs  663.458.181.120 bytes libres
+
+
+
+22222222222222222
