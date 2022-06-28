@@ -1,0 +1,15 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 1620-1080
+
+ Directorio de c:\contenedores
+
+28/06/2022  16:10    <DIR>          .
+28/06/2022  16:10    <DIR>          ..
+07/06/2022  14:30    <DIR>          app1
+10/06/2022  13:57    <DIR>          app_oracle
+10/06/2022  09:16    <DIR>          app_payara
+28/06/2022  16:10    <DIR>          gitpruebas
+24/06/2022  13:06    <DIR>          kubernetes
+27/06/2022  10:53    <DIR>          registry
+               0 archivos              0 bytes
+               8 dirs  663.458.181.120 bytes libres
